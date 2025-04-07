@@ -50,19 +50,20 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCvHRoQ7NolqKGzDZfXjJAP1grPWl3gfMA',
-    appId: '1:512157489351:web:bd6df99a6ed9c27ae0c6e2',
-    messagingSenderId: '512157489351',
-    projectId: 'rdp-todo-6450e',
-    authDomain: 'rdp-todo-6450e.firebaseapp.com',
-    storageBucket: 'rdp-todo-6450e.firebasestorage.app',
+    apiKey: 'AIzaSyCYot-kQfxMj87_IAp2DMghXdHrJIFLNVk',
+    appId: '1:631892762124:web:03131f96d500e434e11829',
+    messagingSenderId: '631892762124',
+    projectId: 'rdpt-5ee7b',
+    authDomain: 'rdpt-5ee7b.firebaseapp.com',
+    storageBucket: 'rdpt-5ee7b.firebasestorage.app',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCP2c7AUzZYmwhmMYqTXvB3w8w-VoDk6QY',
-    appId: '1:512157489351:android:595cf948c055f7d4e0c6e2',
-    messagingSenderId: '512157489351',
-    projectId: 'rdp-todo-6450e',
-    storageBucket: 'rdp-todo-6450e.firebasestorage.app',
+    apiKey: 'AIzaSyCn_6840tn4fjc9dbFWYSa8-jE6eyY01F0',
+    appId: '1:631892762124:android:5eff3e44392ebddae11829',
+    messagingSenderId: '631892762124',
+    projectId: 'rdpt-5ee7b',
+    storageBucket: 'rdpt-5ee7b.firebasestorage.app',
   );
+
 }
